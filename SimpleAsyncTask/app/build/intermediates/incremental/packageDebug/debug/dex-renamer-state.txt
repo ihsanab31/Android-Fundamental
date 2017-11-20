@@ -1,0 +1,4 @@
+#Sun Nov 05 20:57:16 ICT 2017
+base.0=D\:\\Code Android\\Androin Fundamental\\SimpleAsyncTask\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\Code Android\\Androin Fundamental\\SimpleAsyncTask\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

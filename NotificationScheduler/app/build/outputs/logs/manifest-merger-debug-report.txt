@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:17:1-38:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\e28c10d698debc5fa4caab546ac0accd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\51ddb02b39e98994ce98af9e519f02aa\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\d139023c1cd0b24fcfee733627d21455\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\47dabc563d5a1f1392d43fc1882605be\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\f0ee040560a12a9f0fd5136473efaf39\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\09818ca2b0423b9e8e32e4d08f6f38b8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ec379550039552021320914ad566b216\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\994e522fac4b5c8c51ca2f30c7a29c79\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\c99082194e07ab541d014ecbd612f741\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:17:1-38:12
+	package
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:18:5-56
+		INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:17:1-38:12
+		INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:17:1-38:12
+		INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:20:5-36:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\e28c10d698debc5fa4caab546ac0accd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\e28c10d698debc5fa4caab546ac0accd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\51ddb02b39e98994ce98af9e519f02aa\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\51ddb02b39e98994ce98af9e519f02aa\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\d139023c1cd0b24fcfee733627d21455\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\d139023c1cd0b24fcfee733627d21455\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\47dabc563d5a1f1392d43fc1882605be\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\47dabc563d5a1f1392d43fc1882605be\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\f0ee040560a12a9f0fd5136473efaf39\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\f0ee040560a12a9f0fd5136473efaf39\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\09818ca2b0423b9e8e32e4d08f6f38b8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\09818ca2b0423b9e8e32e4d08f6f38b8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ec379550039552021320914ad566b216\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ec379550039552021320914ad566b216\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\994e522fac4b5c8c51ca2f30c7a29c79\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\994e522fac4b5c8c51ca2f30c7a29c79\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\c99082194e07ab541d014ecbd612f741\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\c99082194e07ab541d014ecbd612f741\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.notificationscheduler.MainActivity
+ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:26:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:30:27-74
+service#com.example.android.notificationscheduler.NotificationJobService
+ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:33:9-35:71
+	android:permission
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:35:13-69
+	android:name
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml:34:13-51
+uses-sdk
+INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\e28c10d698debc5fa4caab546ac0accd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\e28c10d698debc5fa4caab546ac0accd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\51ddb02b39e98994ce98af9e519f02aa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\51ddb02b39e98994ce98af9e519f02aa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\d139023c1cd0b24fcfee733627d21455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\d139023c1cd0b24fcfee733627d21455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\47dabc563d5a1f1392d43fc1882605be\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\47dabc563d5a1f1392d43fc1882605be\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\f0ee040560a12a9f0fd5136473efaf39\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\f0ee040560a12a9f0fd5136473efaf39\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\09818ca2b0423b9e8e32e4d08f6f38b8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\09818ca2b0423b9e8e32e4d08f6f38b8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ec379550039552021320914ad566b216\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ec379550039552021320914ad566b216\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\994e522fac4b5c8c51ca2f30c7a29c79\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\994e522fac4b5c8c51ca2f30c7a29c79\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\c99082194e07ab541d014ecbd612f741\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\c99082194e07ab541d014ecbd612f741\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\e28c10d698debc5fa4caab546ac0accd\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+		ADDED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Code Android\Androin Fundamental\NotificationScheduler\app\src\main\AndroidManifest.xml
